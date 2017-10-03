@@ -1,3 +1,3 @@
 "L'exercise de Git"
 "Claire, Ellen, Matt, Andrea"
-"We are solving major problems!"
+"Nous sommes ameliorons nos problemes!"
